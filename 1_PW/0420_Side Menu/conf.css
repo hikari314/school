@@ -1,0 +1,62 @@
+* {
+    margin:0px auto
+}
+
+div.cima{
+    display:flex;  /* caixa elástica */
+    width: 1200px;
+    height: 150px;
+}
+
+div.pequeno{
+    flex:30%;
+    margin:5px;
+}
+
+div.grande{
+    flex:70%;
+    margin:5px;
+    padding:10px;
+    text-align:center;
+}
+
+img.logo{
+    width:100%;
+    margin-top:20px
+}
+
+h1.slogan{
+    margin-top:40px;
+    font-size:25px;
+    font-family:sans-serif
+}
+
+div.meio{
+    display:flex;
+    width:1200px;
+    height:500px;
+    background-color: darkorange;
+}
+
+div.esquerda{
+    flex:20%;
+    background-color: darksalmon;
+}
+
+div.direita{
+    flex:80%;
+    background-color: deeppink;
+}
+
+a.esq{
+    display:block;
+    width:100%;
+    padding:10px;
+    text-decoration: none;
+    color:black
+}
+
+a.esq:hover{
+    background-color: #ededed;
+    color:blue
+}
