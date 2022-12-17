@@ -1,0 +1,36 @@
+*{
+    margin: 0 auto;
+}
+table{
+    width: 30%;
+    border-collapse: collapse;
+    border: lightgrey solid 1px;
+}
+
+caption{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+tr{
+    height: 15px;
+}
+
+.gray{
+    background-color: gray;
+}
+
+.white{
+    background-color: white;
+}
+
+.line{
+    border-left: lightgrey solid 1px;
+    border-right: lightgrey solid 1px;
+}
+
+

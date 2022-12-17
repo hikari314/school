@@ -1,0 +1,173 @@
+/* stt for computer */
+
+* {
+    margin: 0 auto;
+}
+
+.header{
+    height: 150px;
+    flex-direction: row;
+}
+
+.logo{
+    flex: 20%;
+    text-align: center;
+}
+
+.logo img{
+    width: 17vw;
+}
+
+.access{
+    flex: 80%;
+    text-align: right;
+}
+
+.littbox iframe{
+    width: 100%;
+    height: 11.3vw;
+}
+
+.images{
+    width: 21vw;
+}
+
+form{
+    font-size: 1.2vw;
+    padding-top: 1.7vw;
+}
+
+label{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input{
+    border-radius: 5px;
+}
+
+.bottom{
+    background-color: black;
+}
+
+.body{
+    height: 400px;
+}
+
+.menu{
+    background-color: cadetblue;
+}
+
+.menumobile{
+    display: none;
+}
+
+.menupc{
+    display: block;
+}
+
+.menupc a{
+    float: left;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+.menupc a:hover{
+    color: cornflowerblue;
+}
+
+.skirting{
+    height: 100px;
+}
+
+.skng{
+    width: 29.3vw;
+    background-color: darkgoldenrod;
+}
+
+.header, .body, .skirting{
+    width: 90%;
+    display: flex;
+}
+
+.logo, .access, .littbox, .littlebox, .skng{
+    margin: 10px;
+}
+
+.littbox, .littlebox{
+    flex: 1;
+    background-color: cadetblue;
+}
+
+
+/* stt for tablet - screen until 900px*/
+
+@media only screen and (max-width: 900px){
+    .littlebox{
+        display: none;
+    }
+
+    .littbox iframe{
+        width: 100%;
+        height: 23.2vw;
+    }
+}
+
+
+
+/* stt for mobile - screen until 600px */
+
+@media only screen and (max-width:600px){
+
+    .header{
+        width: 100%;
+    }
+
+    .logo, .access{
+        margin: 0px;
+    }
+
+    .body{
+        flex-direction: column;
+        height: 1200px;
+        width: 100%;
+    }
+
+    .littbox, .littlebox{
+        border: solid 1px red;
+        background-color: white;
+        margin: 5px 2px;
+        display: flex;
+    }
+
+    .littbox iframe{
+        width: 100%;
+        height: 50vw;
+    }
+
+    .menumobile{
+        display: block;
+    }
+
+    .options{
+        display: none;
+    }
+
+    .menumobile:hover .options{
+        display: block;
+    }
+
+    .menumobile a{
+        float: none;
+        display: block;
+    }
+
+    .menupc{
+        display: none;
+    }
+
+    .images{
+        width: 75vw;
+        height: 55vw;
+    }    
+}

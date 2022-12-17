@@ -1,0 +1,29 @@
+span{
+    color: red;
+}
+
+label{
+    font-size: 0.9em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+input{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgray;
+}
+
+input[type=submit]{
+    background-color: lightslategray;
+    height: 30px;
+    width: 130px;
+    border-radius: 3px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+input[type=text], input[type=number], input[type=email], input[type=tel], input[type=url], textarea{
+    background-color: thistle;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

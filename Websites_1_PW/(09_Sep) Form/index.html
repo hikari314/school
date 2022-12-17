@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Form</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="indexstt.css">
+    </head>
+
+    <body>
+        <h1>Curriculum Registration</h1>
+        <form action="cadasto.php" method="POST">
+            <p>
+                <fieldset>
+                    <legend>Personal Data</legend>
+                    <label for="name">Name:<span>*</span></label>
+                    <input type="text" size="50" maxlength="50" name="name" id="name" required autofocus>
+
+                    <label for="itin">ITIN:<span>*</span></label>
+                    <input type="text" size="15" maxlength="15" name="itin" id="itin" required pattern="[0-9]{3}.[0-9]{3}.[0-9]{3}-[0-9]{2}$" placeholder="xxx.xxx.xxx-xx">
+    
+                    <label for="id">ID:<span>*</span></label>
+                    <input type="text" size="13" maxlength="13" name="id" id="id" required pattern="[0-9]{7,9}-[a-zA-Z0-9]{2}$" placeholder="xxxxxxx-xx">
+    
+                    <label for="birth">Date of Birth:</label>
+                    <input type="date" size="13" maxlength="13" name="birth" id="birth">
+    
+                    <label for="ss">SSFC:</label>
+                    <input type="text" size="13" maxlength="13" name="ss" id="ss">
+                </fieldset>
+            </p>
+
+            <p>
+                <fieldset>
+                    <legend>Address</legend>
+                    <label for="street">Street/Av.:</label>
+                    <input type="text" size="50" maxlength="50" name="street" id="street">
+                
+                    <label for="number">Number:</label>
+                    <input type="number" size="5" maxlength="5" name="number" id="number">
+    
+                    <label for="complement">Complement:</label>
+                    <input list="complements" type="text" size="20" maxlength="20" name="complement" id="complement">
+                    <datalist id="complements">
+                        <option value="Backyard"></option>
+                        <option value="Block A"></option>
+                        <option value="Block B"></option>
+                        <option value="Block C"></option>
+                    </datalist>
+
+                    <p>
+                        <label for="postalcode">Postal Code:</label>
+                        <input type="text" size="10" maxlength="10" name="postalcode" id="postalcode" pattern="[0-9]{5}-[0-9]{3}$" placeholder="xxxxx-xxx">
+        
+                        <label for="neighborhood">Neighborhood:</label>
+                        <input type="text" size="30" maxlength="30" name="neighborhood" id="neighborhood">
+        
+                        <label for="city">City:</label>
+                        <input type="text" size="30" maxlength="30" name="city" id="city">
+        
+                        <label for="state">State:</label>
+                        <select id="state">
+                            <option value="New York">New York</option>
+                            <option value="Los Angeles">Los Angeles</option>
+                            <option value="San Francisco">San Francisco</option>
+                            <option value="Boston">Boston</option>
+                            <option value="Chicago">Chicago</option>
+                            <option value="Miami">Miami</option>
+                            <option value="Seattle">Seattle</option>
+                        </select>
+                    </p>
+                </fieldset>
+            </p>
+
+            <p>
+                <fieldset>
+                    <legend>Contact Informations</legend>
+                    <label for="tel">Home Phone:</label>
+                    <input type="tel" size="12" maxlength="12" name="tel" id="tel" pattern="\([0-9]{2}\)[0-9]{4,5}-[0-9]{4}$" placeholder="(xx)xxxx-xxxx">
+    
+                    <label for="mob">Mobile Phone:</label>
+                    <input type="tel" size="15" maxlength="15" name="mob" id="mob" pattern="\([0-9]{2}\)[0-9]{4,6}-[0-9]{4}$" placeholder="(xx)xxxxx-xxxx">
+    
+                    <label for="email">Email:</label>
+                    <input type="email" size="13" name="email" id="email">
+                </fieldset>
+            </p>
+
+            <p>
+                <fieldset>
+                    <legend>Preferences</legend>
+                    <input type="checkbox" value="Cinema" name="cinema" id="cinema">
+                    <label for="cinema">Cinema</label>
+
+                    <input type="checkbox" value="Sports" name="sports" id="sports">
+                    <label for="sports">Sports</label>
+
+                    <input type="checkbox" value="Theatre" name="theatre" id="theatre">
+                    <label for="theatre">Theatre</label>
+
+                    <input type="checkbox" value="Games" name="games" id="games">
+                    <label for="games">Games</label>
+                </fieldset>
+            </p>
+
+            <p>
+                <fieldset>
+                    <legend>Gender</legend>
+                    <input type="radio" value="Female" name="gender" id="female">
+                    <label for="female">Female</label>
+    
+                    <input type="radio" value="Male" name="gender" id="male">
+                    <label for="male">Male</label>
+                </fieldset>
+            </p>
+
+            <p>
+                <fieldset>
+                    <legend>Summary of Qualifications</legend>
+                    <label for="hab"></label>
+                    <br>
+                    <textarea cols="150" rows="10" name="hab" id="hab"></textarea>
+                </fieldset>
+            </p>
+
+            <p>
+                <fieldset>
+                    <legend>Curriculum</legend>
+                    <label for="curlink">Lates Curriculum Link:</label>
+                    <input type="url" size="30" name="curlink" id="curlink"> 
+
+                    <p>
+                        <label for="doccur">Select the file of your curriculum:</label>
+                        <input type="file" size="30" name="doccur" id="doccur" multiple accept="application/pdf">
+                    </p>
+                </fieldset>
+            </p>
+
+            <p>
+                <input type="submit" value="Send">
+            </p>
+        </form>
+    </body>
+</html>

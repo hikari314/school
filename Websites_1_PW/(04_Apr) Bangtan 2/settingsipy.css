@@ -1,0 +1,45 @@
+* {
+    margin: 10px auto;
+}
+
+p{
+    font-family: serif;
+    color: black;
+}
+
+body{
+     background-color:rgb(185, 176, 246);
+}
+
+div.header{
+     width: 90%;
+     height: 100px;
+     background-color:lightblue;
+     border-radius: 15px;
+     font-size: 50px;
+     font-family: 'Times New Roman', Times, serif;
+     text-align: center;
+     padding-top: 10px;
+}
+
+div.midle{
+    width: 90%;
+    height: 400px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    display: flex; /*caixa flexível em tamanho, vai se adequar e dividir igualmente*/ 
+}
+
+div.litlle{
+    flex: 1; /* caixas do mesmo tamanho */
+    margin: 15px;
+    background-color: antiquewhite;
+    border-radius: 12px;
+    text-align: center;
+    padding: 10px;
+}
+
+img.images{
+    width: 90%;
+}

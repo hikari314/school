@@ -1,0 +1,24 @@
+*{
+    margin: 0 auto;
+}
+
+table{
+    border-collapse: collapse;
+    width: 35%;
+    background-color: lightpink;
+}
+
+td, th{
+    border: solid lightgrey 1px;
+    height: 20px;
+    padding: 2px;
+    text-align: center;
+}
+
+caption{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
