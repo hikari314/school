@@ -1,0 +1,223 @@
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\forcaweb.dll.config
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\forcaweb.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\forcaweb.pdb
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\csc.exe
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\csc.exe.config
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\csc.rsp
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\csi.exe
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\csi.exe.config
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\csi.rsp
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.AppContext.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.Console.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\vbc.exe
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\vbc.exe.config
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\vbc.rsp
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\obj\Debug\forcaweb.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\obj\Debug\forcaweb.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\obj\Debug\forcaweb.csproj.CopyComplete
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\obj\Debug\forcaweb.dll
+C:\Users\Lab_ETESP\source\repos\forcaweb\forcaweb\obj\Debug\forcaweb.pdb
+F:\Programas Web\forcaweb\forcaweb\bin\forcaweb.dll.config
+F:\Programas Web\forcaweb\forcaweb\bin\forcaweb.dll
+F:\Programas Web\forcaweb\forcaweb\bin\forcaweb.pdb
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\csc.exe
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\csc.exe.config
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\csc.rsp
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\csi.exe
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\csi.exe.config
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\csi.rsp
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.AppContext.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Collections.Immutable.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Console.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.IO.Compression.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.IO.FileSystem.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.IO.Pipes.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Reflection.Metadata.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Security.AccessControl.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Security.Claims.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.ValueTuple.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Xml.XPath.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\vbc.exe
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\vbc.exe.config
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\vbc.rsp
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\VBCSCompiler.exe
+F:\Programas Web\forcaweb\forcaweb\bin\roslyn\VBCSCompiler.exe.config
+F:\Programas Web\forcaweb\forcaweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Programas Web\forcaweb\forcaweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Programas Web\forcaweb\forcaweb\obj\Debug\forcaweb.csprojAssemblyReference.cache
+F:\Programas Web\forcaweb\forcaweb\obj\Debug\forcaweb.csproj.CoreCompileInputs.cache
+F:\Programas Web\forcaweb\forcaweb\obj\Debug\forcaweb.csproj.CopyComplete
+F:\Programas Web\forcaweb\forcaweb\obj\Debug\forcaweb.dll
+F:\Programas Web\forcaweb\forcaweb\obj\Debug\forcaweb.pdb
+E:\Programas Web\forcaweb\forcaweb\obj\Debug\forcaweb.csproj.CoreCompileInputs.cache
+E:\Programas Web\forcaweb\forcaweb\bin\forcaweb.dll.config
+E:\Programas Web\forcaweb\forcaweb\bin\forcaweb.dll
+E:\Programas Web\forcaweb\forcaweb\bin\forcaweb.pdb
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\csc.exe
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\csc.exe.config
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\csc.rsp
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\csi.exe
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\csi.exe.config
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\csi.rsp
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.AppContext.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Collections.Immutable.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Console.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.IO.Compression.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.IO.FileSystem.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.IO.Pipes.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Security.AccessControl.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Security.Claims.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.ValueTuple.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Xml.XPath.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\vbc.exe
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\vbc.exe.config
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\vbc.rsp
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\VBCSCompiler.exe
+E:\Programas Web\forcaweb\forcaweb\bin\roslyn\VBCSCompiler.exe.config
+E:\Programas Web\forcaweb\forcaweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programas Web\forcaweb\forcaweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programas Web\forcaweb\forcaweb\obj\Debug\forcaweb.csproj.CopyComplete
+E:\Programas Web\forcaweb\forcaweb\obj\Debug\forcaweb.dll
+E:\Programas Web\forcaweb\forcaweb\obj\Debug\forcaweb.pdb
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\forcaweb.dll.config
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\forcaweb.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\forcaweb.pdb
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\csc.exe
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\csc.exe.config
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\csc.rsp
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\csi.exe
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\csi.exe.config
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\csi.rsp
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.AppContext.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.Collections.Immutable.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.Console.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.IO.Compression.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.IO.FileSystem.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.IO.Pipes.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.Reflection.Metadata.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.Security.AccessControl.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.Security.Claims.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.ValueTuple.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.Xml.XPath.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\vbc.exe
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\vbc.exe.config
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\vbc.rsp
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\VBCSCompiler.exe
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\roslyn\VBCSCompiler.exe.config
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\obj\Debug\forcaweb.csproj.AssemblyReference.cache
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\obj\Debug\forcaweb.csproj.CoreCompileInputs.cache
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\obj\Debug\forcaweb.csproj.CopyComplete
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\obj\Debug\forcaweb.dll
+D:\1_School\Ythers\Friends\forcaweb\forcaweb\obj\Debug\forcaweb.pdb

@@ -1,0 +1,72 @@
+F:\PrjQuiz\PrjQuiz\bin\PrjQuiz.dll.config
+F:\PrjQuiz\PrjQuiz\bin\PrjQuiz.dll
+F:\PrjQuiz\PrjQuiz\bin\PrjQuiz.pdb
+F:\PrjQuiz\PrjQuiz\bin\roslyn\csc.exe
+F:\PrjQuiz\PrjQuiz\bin\roslyn\csc.exe.config
+F:\PrjQuiz\PrjQuiz\bin\roslyn\csc.rsp
+F:\PrjQuiz\PrjQuiz\bin\roslyn\csi.exe
+F:\PrjQuiz\PrjQuiz\bin\roslyn\csi.rsp
+F:\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PrjQuiz\PrjQuiz\bin\roslyn\System.AppContext.dll
+F:\PrjQuiz\PrjQuiz\bin\roslyn\System.Collections.Immutable.dll
+F:\PrjQuiz\PrjQuiz\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\PrjQuiz\PrjQuiz\bin\roslyn\System.IO.FileSystem.dll
+F:\PrjQuiz\PrjQuiz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\PrjQuiz\PrjQuiz\bin\roslyn\System.Reflection.Metadata.dll
+F:\PrjQuiz\PrjQuiz\bin\roslyn\vbc.exe
+F:\PrjQuiz\PrjQuiz\bin\roslyn\vbc.exe.config
+F:\PrjQuiz\PrjQuiz\bin\roslyn\vbc.rsp
+F:\PrjQuiz\PrjQuiz\bin\roslyn\VBCSCompiler.exe
+F:\PrjQuiz\PrjQuiz\bin\roslyn\VBCSCompiler.exe.config
+F:\PrjQuiz\PrjQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PrjQuiz\PrjQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csprojAssemblyReference.cache
+F:\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csproj.CoreCompileInputs.cache
+F:\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csproj.CopyComplete
+F:\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.dll
+F:\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.pdb
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\PrjQuiz.dll.config
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\PrjQuiz.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\PrjQuiz.pdb
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\csc.exe
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\csc.exe.config
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\csc.rsp
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\csi.exe
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\csi.rsp
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\System.AppContext.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\System.Collections.Immutable.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\System.IO.FileSystem.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\System.Reflection.Metadata.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\vbc.exe
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\vbc.exe.config
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\vbc.rsp
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\VBCSCompiler.exe
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\roslyn\VBCSCompiler.exe.config
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csproj.AssemblyReference.cache
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csproj.CoreCompileInputs.cache
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csproj.CopyComplete
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.pdb

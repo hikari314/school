@@ -1,0 +1,72 @@
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\PrjInsert.dll.config
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\PrjInsert.dll
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\PrjInsert.pdb
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\csc.exe
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\csc.exe.config
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\csc.rsp
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\csi.exe
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\csi.rsp
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\System.AppContext.dll
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\vbc.exe
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\vbc.exe.config
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\vbc.rsp
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\obj\Debug\PrjInsert.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\obj\Debug\PrjInsert.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\obj\Debug\PrjInsert.csproj.CopyComplete
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\obj\Debug\PrjInsert.dll
+C:\Users\Lab_ETESP\Documents\PrjInsert\PrjInsert\obj\Debug\PrjInsert.pdb
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\PrjInsert.dll.config
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\PrjInsert.dll
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\PrjInsert.pdb
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\csc.exe
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\csc.exe.config
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\csc.rsp
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\csi.exe
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\csi.rsp
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\System.AppContext.dll
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\System.Collections.Immutable.dll
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\System.IO.FileSystem.dll
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\System.Reflection.Metadata.dll
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\vbc.exe
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\vbc.exe.config
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\vbc.rsp
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\VBCSCompiler.exe
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\roslyn\VBCSCompiler.exe.config
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\0_BD E PW\PrjInsert\PrjInsert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\0_BD E PW\PrjInsert\PrjInsert\obj\Debug\PrjInsert.csprojAssemblyReference.cache
+F:\0_BD E PW\PrjInsert\PrjInsert\obj\Debug\PrjInsert.csproj.CoreCompileInputs.cache
+F:\0_BD E PW\PrjInsert\PrjInsert\obj\Debug\PrjInsert.csproj.CopyComplete
+F:\0_BD E PW\PrjInsert\PrjInsert\obj\Debug\PrjInsert.dll
+F:\0_BD E PW\PrjInsert\PrjInsert\obj\Debug\PrjInsert.pdb

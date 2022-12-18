@@ -1,0 +1,72 @@
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\PrjAniversarioMaria_PW.dll.config
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\PrjAniversarioMaria_PW.dll
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\PrjAniversarioMaria_PW.pdb
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\csc.exe
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\csc.exe.config
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\csc.rsp
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\csi.exe
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\csi.rsp
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\System.AppContext.dll
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\System.Collections.Immutable.dll
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\System.IO.FileSystem.dll
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\vbc.exe
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\vbc.exe.config
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\vbc.rsp
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\VBCSCompiler.exe
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\VBCSCompiler.exe.config
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\obj\Debug\PrjAniversarioMaria_PW.csproj.AssemblyReference.cache
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\obj\Debug\PrjAniversarioMaria_PW.csproj.CoreCompileInputs.cache
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\obj\Debug\PrjAniversarioMaria_PW.csproj.CopyComplete
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\obj\Debug\PrjAniversarioMaria_PW.dll
+D:\Hand In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\obj\Debug\PrjAniversarioMaria_PW.pdb
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\PrjAniversarioMaria_PW.dll.config
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\PrjAniversarioMaria_PW.dll
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\PrjAniversarioMaria_PW.pdb
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\csc.exe
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\csc.exe.config
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\csc.rsp
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\csi.exe
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\csi.rsp
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\System.AppContext.dll
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\System.Collections.Immutable.dll
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\System.IO.FileSystem.dll
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\vbc.exe
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\vbc.exe.config
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\vbc.rsp
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\VBCSCompiler.exe
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\roslyn\VBCSCompiler.exe.config
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\obj\Debug\PrjAniversarioMaria_PW.csproj.AssemblyReference.cache
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\obj\Debug\PrjAniversarioMaria_PW.csproj.CoreCompileInputs.cache
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\obj\Debug\PrjAniversarioMaria_PW.csproj.CopyComplete
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\obj\Debug\PrjAniversarioMaria_PW.dll
+D:\Hand In\Handed In\PrjAniversarioMaria_PW\PrjAniversarioMaria_PW\obj\Debug\PrjAniversarioMaria_PW.pdb

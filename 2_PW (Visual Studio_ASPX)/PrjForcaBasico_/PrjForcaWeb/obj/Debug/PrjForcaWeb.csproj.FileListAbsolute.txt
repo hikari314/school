@@ -1,0 +1,108 @@
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\PrjForcaWeb.dll.config
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\PrjForcaWeb.dll
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\PrjForcaWeb.pdb
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\csc.exe
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\csc.exe.config
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\csc.rsp
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\csi.exe
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\csi.rsp
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\vbc.exe
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\vbc.exe.config
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\vbc.rsp
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\obj\Debug\PrjForcaWeb.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\obj\Debug\PrjForcaWeb.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\obj\Debug\PrjForcaWeb.csproj.CopyComplete
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\obj\Debug\PrjForcaWeb.dll
+C:\Users\Lab_ETESP\AndroidStudioProjects\PrjForcaWeb\PrjForcaWeb\obj\Debug\PrjForcaWeb.pdb
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\PrjForcaWeb.dll.config
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\PrjForcaWeb.dll
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\PrjForcaWeb.pdb
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\csc.exe
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\csc.exe.config
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\csc.rsp
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\csi.exe
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\csi.rsp
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\System.AppContext.dll
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\vbc.exe
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\vbc.exe.config
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\vbc.rsp
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\VBCSCompiler.exe
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\obj\Debug\PrjForcaWeb.csproj.AssemblyReference.cache
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\obj\Debug\PrjForcaWeb.csproj.CoreCompileInputs.cache
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\obj\Debug\PrjForcaWeb.csproj.CopyComplete
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\obj\Debug\PrjForcaWeb.dll
+E:\ESCOLA\2º ano\Ensino técnico - beckup\Programação Web II (PW)\PrjForcaWeb\PrjForcaWeb\obj\Debug\PrjForcaWeb.pdb
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\PrjForcaWeb.dll.config
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\PrjForcaWeb.dll
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\PrjForcaWeb.pdb
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\csc.exe
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\csc.exe.config
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\csc.rsp
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\csi.exe
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\csi.rsp
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\vbc.exe
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\vbc.exe.config
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\vbc.rsp
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\obj\Debug\PrjForcaWeb.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\obj\Debug\PrjForcaWeb.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\obj\Debug\PrjForcaWeb.csproj.CopyComplete
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\obj\Debug\PrjForcaWeb.dll
+C:\Users\Lab_ETESP\Desktop\PrjForcaWeb\PrjForcaWeb\obj\Debug\PrjForcaWeb.pdb

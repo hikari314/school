@@ -1,0 +1,108 @@
+F:\PrjCalendar\PrjCalendar\bin\PrjCalendar.dll.config
+F:\PrjCalendar\PrjCalendar\bin\PrjCalendar.dll
+F:\PrjCalendar\PrjCalendar\bin\PrjCalendar.pdb
+F:\PrjCalendar\PrjCalendar\bin\roslyn\csc.exe
+F:\PrjCalendar\PrjCalendar\bin\roslyn\csc.exe.config
+F:\PrjCalendar\PrjCalendar\bin\roslyn\csc.rsp
+F:\PrjCalendar\PrjCalendar\bin\roslyn\csi.exe
+F:\PrjCalendar\PrjCalendar\bin\roslyn\csi.rsp
+F:\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PrjCalendar\PrjCalendar\bin\roslyn\System.AppContext.dll
+F:\PrjCalendar\PrjCalendar\bin\roslyn\System.Collections.Immutable.dll
+F:\PrjCalendar\PrjCalendar\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\PrjCalendar\PrjCalendar\bin\roslyn\System.IO.FileSystem.dll
+F:\PrjCalendar\PrjCalendar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\PrjCalendar\PrjCalendar\bin\roslyn\System.Reflection.Metadata.dll
+F:\PrjCalendar\PrjCalendar\bin\roslyn\vbc.exe
+F:\PrjCalendar\PrjCalendar\bin\roslyn\vbc.exe.config
+F:\PrjCalendar\PrjCalendar\bin\roslyn\vbc.rsp
+F:\PrjCalendar\PrjCalendar\bin\roslyn\VBCSCompiler.exe
+F:\PrjCalendar\PrjCalendar\bin\roslyn\VBCSCompiler.exe.config
+F:\PrjCalendar\PrjCalendar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PrjCalendar\PrjCalendar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PrjCalendar\PrjCalendar\obj\Debug\PrjCalendar.csprojAssemblyReference.cache
+F:\PrjCalendar\PrjCalendar\obj\Debug\PrjCalendar.csproj.CoreCompileInputs.cache
+F:\PrjCalendar\PrjCalendar\obj\Debug\PrjCalendar.csproj.CopyComplete
+F:\PrjCalendar\PrjCalendar\obj\Debug\PrjCalendar.dll
+F:\PrjCalendar\PrjCalendar\obj\Debug\PrjCalendar.pdb
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\PrjCalendar.dll.config
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\PrjCalendar.dll
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\PrjCalendar.pdb
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\csc.exe
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\csc.exe.config
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\csc.rsp
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\csi.exe
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\csi.rsp
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\System.AppContext.dll
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\System.Collections.Immutable.dll
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\System.IO.FileSystem.dll
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\System.Reflection.Metadata.dll
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\vbc.exe
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\vbc.exe.config
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\vbc.rsp
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\VBCSCompiler.exe
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\VBCSCompiler.exe.config
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\obj\Debug\PrjCalendar.csprojAssemblyReference.cache
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\obj\Debug\PrjCalendar.csproj.CoreCompileInputs.cache
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\obj\Debug\PrjCalendar.csproj.CopyComplete
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\obj\Debug\PrjCalendar.dll
+F:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\obj\Debug\PrjCalendar.pdb
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\PrjCalendar.dll.config
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\PrjCalendar.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\PrjCalendar.pdb
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\csc.exe
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\csc.exe.config
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\csc.rsp
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\csi.exe
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\csi.rsp
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\System.AppContext.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\System.Collections.Immutable.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\System.IO.FileSystem.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\System.Reflection.Metadata.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\vbc.exe
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\vbc.exe.config
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\vbc.rsp
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\VBCSCompiler.exe
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\roslyn\VBCSCompiler.exe.config
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\obj\Debug\PrjCalendar.csproj.AssemblyReference.cache
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\obj\Debug\PrjCalendar.csproj.CoreCompileInputs.cache
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\obj\Debug\PrjCalendar.csproj.CopyComplete
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\obj\Debug\PrjCalendar.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjCalendar\PrjCalendar\obj\Debug\PrjCalendar.pdb

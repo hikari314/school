@@ -1,0 +1,72 @@
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\PrjTranslator.dll.config
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\PrjTranslator.dll
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\PrjTranslator.pdb
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\csc.exe
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\csc.exe.config
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\csc.rsp
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\csi.exe
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\csi.rsp
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\System.AppContext.dll
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\vbc.exe
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\vbc.exe.config
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\vbc.rsp
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\obj\Debug\PrjTranslator.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\obj\Debug\PrjTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\obj\Debug\PrjTranslator.csproj.CopyComplete
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\obj\Debug\PrjTranslator.dll
+C:\Users\Lab_ETESP\Desktop\PrjTranslator\PrjTranslator\obj\Debug\PrjTranslator.pdb
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\PrjTranslator.dll.config
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\PrjTranslator.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\PrjTranslator.pdb
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\csc.exe
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\csc.exe.config
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\csc.rsp
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\csi.exe
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\csi.rsp
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\System.AppContext.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\System.Collections.Immutable.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\System.IO.FileSystem.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\System.Reflection.Metadata.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\vbc.exe
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\vbc.exe.config
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\vbc.rsp
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\VBCSCompiler.exe
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\roslyn\VBCSCompiler.exe.config
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\obj\Debug\PrjTranslator.csproj.AssemblyReference.cache
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\obj\Debug\PrjTranslator.csproj.CoreCompileInputs.cache
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\obj\Debug\PrjTranslator.csproj.CopyComplete
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\obj\Debug\PrjTranslator.dll
+D:\1_School\PW (Visual Studio_ASPX)\PrjTranslator\PrjTranslator\obj\Debug\PrjTranslator.pdb
