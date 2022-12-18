@@ -1,0 +1,10 @@
+F:\1_School\PrjArduino\PrjArduino\bin\Debug\PrjArduino.exe.config
+F:\1_School\PrjArduino\PrjArduino\bin\Debug\PrjArduino.exe
+F:\1_School\PrjArduino\PrjArduino\bin\Debug\PrjArduino.pdb
+F:\1_School\PrjArduino\PrjArduino\obj\Debug\PrjArduino.csprojAssemblyReference.cache
+F:\1_School\PrjArduino\PrjArduino\obj\Debug\PrjArduino.Form1.resources
+F:\1_School\PrjArduino\PrjArduino\obj\Debug\PrjArduino.Properties.Resources.resources
+F:\1_School\PrjArduino\PrjArduino\obj\Debug\PrjArduino.csproj.GenerateResource.cache
+F:\1_School\PrjArduino\PrjArduino\obj\Debug\PrjArduino.csproj.CoreCompileInputs.cache
+F:\1_School\PrjArduino\PrjArduino\obj\Debug\PrjArduino.exe
+F:\1_School\PrjArduino\PrjArduino\obj\Debug\PrjArduino.pdb

@@ -1,0 +1,10 @@
+F:\ETEC\EQUIPES\2º ANO\SE\PrjComunicacaoArduino\PrjComunicacaoArduino\bin\Debug\PrjComunicacaoArduino.exe.config
+F:\ETEC\EQUIPES\2º ANO\SE\PrjComunicacaoArduino\PrjComunicacaoArduino\bin\Debug\PrjComunicacaoArduino.exe
+F:\ETEC\EQUIPES\2º ANO\SE\PrjComunicacaoArduino\PrjComunicacaoArduino\bin\Debug\PrjComunicacaoArduino.pdb
+F:\ETEC\EQUIPES\2º ANO\SE\PrjComunicacaoArduino\PrjComunicacaoArduino\obj\Debug\PrjComunicacaoArduino.csprojAssemblyReference.cache
+F:\ETEC\EQUIPES\2º ANO\SE\PrjComunicacaoArduino\PrjComunicacaoArduino\obj\Debug\PrjComunicacaoArduino.Form1.resources
+F:\ETEC\EQUIPES\2º ANO\SE\PrjComunicacaoArduino\PrjComunicacaoArduino\obj\Debug\PrjComunicacaoArduino.Properties.Resources.resources
+F:\ETEC\EQUIPES\2º ANO\SE\PrjComunicacaoArduino\PrjComunicacaoArduino\obj\Debug\PrjComunicacaoArduino.csproj.GenerateResource.cache
+F:\ETEC\EQUIPES\2º ANO\SE\PrjComunicacaoArduino\PrjComunicacaoArduino\obj\Debug\PrjComunicacaoArduino.csproj.CoreCompileInputs.cache
+F:\ETEC\EQUIPES\2º ANO\SE\PrjComunicacaoArduino\PrjComunicacaoArduino\obj\Debug\PrjComunicacaoArduino.exe
+F:\ETEC\EQUIPES\2º ANO\SE\PrjComunicacaoArduino\PrjComunicacaoArduino\obj\Debug\PrjComunicacaoArduino.pdb

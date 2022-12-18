@@ -1,0 +1,384 @@
+﻿void setup()
+{
+  for (int i=3 ; i < 13 ; i++ )
+    pinMode ( i, OUTPUT );
+}
+
+void loop()
+{
+  for ( int a = 3; a < 13; a++)
+  {
+        digitalWrite( a , HIGH);
+    	delay(100);
+    	digitalWrite( a , LOW);    
+  }
+    for ( int a = 12; a > 2; a--)
+  {
+        digitalWrite( a , HIGH);
+    	delay(100);
+    	digitalWrite( a , LOW);
+  }   
+}
+
+							// 2º código
+
+
+void setup()
+{
+  for (int i=3 ; i < 13 ; i++ )
+    pinMode ( i, OUTPUT );
+}
+
+void loop()
+{
+  for ( int a = 3; a < 13; a++)
+  {
+        digitalWrite( a , HIGH);
+    	delay(100);    	    
+  }
+    for ( int a = 12; a > 2; a--)
+  {   	
+    	digitalWrite( a , LOW);
+        delay(100);
+  }   
+}
+
+							// 3º código
+
+
+void setup()
+{
+  for (int i=3 ; i < 13 ; i++ )
+    pinMode ( i, OUTPUT );
+}
+
+void loop()
+{
+  for ( int a = 3; a < 12 ; a = a + 2)
+  {
+        digitalWrite( a, HIGH);    
+  }
+  delay(100);
+  for ( int a = 3; a < 12 ; a = a + 2)
+  {
+        digitalWrite( a, LOW);    
+  }
+  for ( int a = 4; a < 13 ; a = a + 2)
+  {
+        digitalWrite( a, HIGH);    
+  } 
+  delay(100);
+  for ( int a = 4; a < 13 ; a = a + 2)
+  {
+        digitalWrite( a, LOW);    
+  }
+}
+
+
+								// 4º código
+
+void setup()
+{
+ 
+  for (int i=3 ; i < 13 ; i++ )
+    pinMode ( i, OUTPUT ); 
+}
+
+void loop()
+{
+  for ( int x = 3; x < 8 ; x ++)
+  {
+  digitalWrite(x, HIGH); 
+  } 
+  delay(100);  
+  for ( int y = 3; y < 8 ; y ++)
+  {
+  digitalWrite(y, LOW); 
+  } 
+  for ( int o = 8; o < 13 ; o ++)
+  {
+  digitalWrite(o, HIGH); 
+  } 
+  delay(100);  
+  for ( int t = 8; t < 13 ; t ++)
+  {
+  digitalWrite(t, LOW); 
+  }      
+}
+
+								// 5º código
+
+void setup()
+{
+ 
+  for (int i=3 ; i < 13 ; i++ )
+    pinMode ( i, OUTPUT ); 
+}
+
+void loop()
+{
+  for ( int x = 3; x < 13 ; x ++)
+  {
+  digitalWrite(x, HIGH); 
+  }
+  delay(100);  
+  for ( int v = 3; v < 13 ; v ++)
+  {
+  digitalWrite(v, LOW);
+  }
+   delay(100);
+       
+}
+
+							// 6º código
+
+
+void setup()
+{
+  for (int i=3 ; i < 13 ; i++ )
+    pinMode ( i, OUTPUT );
+}
+
+void loop()
+{
+  for ( int a = 3; a < 13 ;a++)
+  {
+        digitalWrite( a, HIGH);
+    if( a + 5 > 12){
+      digitalWrite( a - 5, HIGH);
+    }else{
+    	digitalWrite( a + 5, HIGH); 
+    }
+    	delay(1000); 
+    	digitalWrite( a, LOW);
+    if( a + 5 > 12){
+      digitalWrite( a - 5, LOW);
+    }else{
+    	digitalWrite( a + 5, LOW); 
+    }    	     
+  }
+}
+
+							// 7º código
+
+void setup()
+{ 
+  for (int i=3 ; i < 13 ; i++ )
+    pinMode ( i, OUTPUT );
+}
+
+void loop()
+{
+ for ( int a = 3 ; a < 13 ; a++)
+ { 
+    digitalWrite(a, HIGH);
+    delay(1000);
+    digitalWrite(a , LOW);
+   	if(a + 2 > 12){
+      digitalWrite(a - 8, HIGH);
+      delay(100);  
+      digitalWrite(a - 8, LOW);
+    }else{
+      digitalWrite(a + 2, HIGH);
+      delay(100);  
+      digitalWrite(a + 2, LOW);
+    }
+ }
+}
+
+							// 8º código
+
+ int b = 12;
+
+void setup()
+{ 
+  for (int i=3 ; i < 13 ; i++ )
+    pinMode ( i, OUTPUT );
+}
+void loop()
+{  
+  for ( int a = 3; a <= b; a++) 
+  {        
+    if( b == a){    	
+ 		digitalWrite( b , HIGH);
+      	b--;      		          
+    }else{
+        digitalWrite( a , HIGH);
+        delay(100);
+    	digitalWrite( a , LOW);
+      		  for ( int c = 12; c > b; c--) 
+  			  {
+                digitalWrite( c , HIGH);
+              }                             
+    }
+  }
+  if( b == 2){
+    for ( int d = 3; d < 13; d++) 
+    {
+      digitalWrite( d , LOW);
+      b++;
+    }
+  }
+}
+
+
+							// 9º código
+
+
+void setup()
+{ 
+  for (int i=3 ; i < 13 ; i++ )
+    pinMode ( i, OUTPUT );
+}
+void loop()
+{  
+  for ( int a = 3; a <= 12; a++) 
+  {        
+	digitalWrite(a , HIGH);
+    delay(100);
+  }
+  for ( int a = 3; a <= 12; a++) 
+  {        
+	digitalWrite(a , LOW);
+    delay(100);
+  }
+  for ( int a = 12; a >= 3; a--) 
+  {        
+	digitalWrite(a , HIGH);
+    delay(100);
+  }
+  for ( int a = 12; a >= 3; a--) 
+  {        
+	digitalWrite(a , LOW);
+    delay(100);
+  }
+  
+}
+
+
+							// 10º código
+
+ int b;
+
+void setup()
+{ 
+  for (int i=3 ; i < 13 ; i++ )
+    pinMode ( i, OUTPUT );
+}
+void loop()
+{  
+  b = 12;
+  for ( int a = 3; a <= 7; a++) 
+  {        
+	digitalWrite(a , HIGH);
+    digitalWrite( b , HIGH);
+    delay(100);
+    digitalWrite(a , LOW);
+    digitalWrite(b , LOW);
+    b--;        
+  }
+  b = 8;
+  for ( int a = 7; a >= 3; a--) 
+  {        
+	digitalWrite(a , HIGH);
+    digitalWrite(b , HIGH);
+    delay(100);
+    digitalWrite(a , LOW);
+    digitalWrite(b , LOW);
+    b++;
+  } 
+}
+
+
+							// 11º código
+
+
+void setup()
+{ 
+  for (int i=3 ; i < 13 ; i++ )
+    pinMode ( i, OUTPUT );
+}
+void loop()
+{  
+  for ( int a = 3; a <= 15; a++) 
+  {      
+	digitalWrite(a , HIGH);
+    digitalWrite( a - 1 , HIGH);
+    digitalWrite( a - 2 , HIGH);
+    delay(100);
+	digitalWrite(a , LOW);
+    digitalWrite( a - 1 , LOW);
+    digitalWrite( a - 2 , LOW);
+  }  
+}
+
+
+							// 12º código
+
+
+void setup()
+{ 
+  for (int i=3 ; i < 13 ; i++ )
+    pinMode ( i, OUTPUT );
+}
+void loop()
+{  
+  for ( int a = 3; a <= 6; a++) 
+  {      
+	digitalWrite(a , HIGH);
+    digitalWrite( a + 3 , HIGH);
+    digitalWrite( a + 6 , HIGH);
+    delay(100);
+	digitalWrite(a , LOW);
+    digitalWrite( a + 3 , LOW);
+    digitalWrite( a + 6 , LOW);
+  }  
+}
+
+							// 13º código
+
+ int b;
+
+void setup()
+{ 
+  for (int i=3 ; i < 13 ; i++ )
+    pinMode ( i, OUTPUT );
+}
+void loop()
+{  
+  b = 12;
+  for ( int a = 3; a <= 7; a++) 
+  {        
+	digitalWrite(a , HIGH);
+    digitalWrite( b , HIGH);
+    delay(100);
+    b--;        
+  }
+  b = 12;
+  for ( int a = 3; a <= 7; a++) 
+  {        
+	digitalWrite(a , LOW);
+    digitalWrite( b , LOW);
+    delay(100);
+    b--;        
+  } 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

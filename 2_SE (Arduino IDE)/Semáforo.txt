@@ -1,0 +1,83 @@
+int b = 0;
+
+void setup()
+{
+ 
+  for (int i=3 ; i < 11 ; i++ )
+    pinMode ( i, OUTPUT ); 
+}
+// F1 V1= 3  A1 = 4  VM1 = 5    F2 V2= 6  A2 = 7  VM2 = 8  P3 V3= 9  VML = 10  
+
+void loop()
+{
+  //INICIALIZANO SISTEMA
+  if(b == 0){
+    for ( int a = 3; a < 11; a++)
+  {
+      if( a == 6 || a == 9){
+        delay(1000);
+      }
+        digitalWrite( a , HIGH);
+    	delay(100);
+         
+  }
+  delay(1000);
+      for ( int a = 3; a < 11; a++)
+  {
+        digitalWrite( a , LOW);
+    	delay(100);  	  
+  }
+  delay(1000);
+   b++;
+  }
+   
+  // INICIAR PASSAGES
+  if( b == 1){
+digitalWrite(10 , HIGH); //3 VERMELHO LIGA
+digitalWrite(8 , HIGH); //2 VERMELHO LIGA
+digitalWrite(5, HIGH); //1 VERMELHO DESLIGA 
+delay(1000);
+digitalWrite(3 , HIGH); //1 VERDE LIGA
+digitalWrite(5, LOW); //1 VERMELHO DESLIGA
+    b++;
+  }else{    
+digitalWrite(5, LOW); //1 VERMELHO DESLIGA
+digitalWrite(10 , HIGH); //3 VERMELHO LIGA
+digitalWrite(8 , HIGH); //2 VERMELHO LIGA
+digitalWrite(3 , HIGH); //1 VERDE LIGA
+  }
+  
+  // PRIMEIRA PASSAGEM / SEMAFARO 1
+delay(5000);  
+digitalWrite(3, LOW); //1 VERDE DESLIGA
+digitalWrite(4 , HIGH); //1 AMARELO LIGA
+delay(3000); 
+digitalWrite(4, LOW); //1 AMARELO DESLIGA
+digitalWrite(5 , HIGH); //1 VERMELHO LIGA
+  
+  // SEGUNDA PASSAGEM / SEMAFARO 2
+delay(1000); 
+digitalWrite(8, LOW); //2 VERMELHO DESLIGA 
+digitalWrite(6, HIGH); //2 VERDE LIGA
+delay(5000);  
+digitalWrite(6, LOW); //2 VERDE DESLIGA
+digitalWrite(7 , HIGH); //2 AMARELO LIGA
+delay(3000); 
+digitalWrite(7, LOW); //2 AMARELO DESLIGA
+digitalWrite(8 , HIGH); //2 VERMELHO LIGA
+delay(1000);
+  
+  // TERCEIRA PASSAGEM / PEDESTRE
+digitalWrite(10, LOW);
+digitalWrite(9 , HIGH);
+delay(3000);  
+  for(int i = 0; i < 11; i++){
+    delay(100);
+    digitalWrite(9, HIGH);
+    delay(100);
+    digitalWrite(9 , LOW);
+  }    
+digitalWrite(10 , HIGH); //3 VERMELHO LIGA
+delay(1000);  
+
+}
