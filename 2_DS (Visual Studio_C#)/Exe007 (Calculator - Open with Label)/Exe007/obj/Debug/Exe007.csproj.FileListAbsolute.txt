@@ -1,0 +1,22 @@
+F:\1_School\Exe007\Exe007\bin\Debug\Exe007.exe.config
+F:\1_School\Exe007\Exe007\bin\Debug\Exe007.exe
+F:\1_School\Exe007\Exe007\bin\Debug\Exe007.pdb
+F:\1_School\Exe007\Exe007\obj\Debug\Exe007.csprojAssemblyReference.cache
+F:\1_School\Exe007\Exe007\obj\Debug\Exe007.FrmExe007.resources
+F:\1_School\Exe007\Exe007\obj\Debug\Exe007.Properties.Resources.resources
+F:\1_School\Exe007\Exe007\obj\Debug\Exe007.csproj.GenerateResource.cache
+F:\1_School\Exe007\Exe007\obj\Debug\Exe007.csproj.CoreCompileInputs.cache
+F:\1_School\Exe007\Exe007\obj\Debug\Exe007.exe
+F:\1_School\Exe007\Exe007\obj\Debug\Exe007.pdb
+F:\1_School\Exe007\Exe007\obj\Debug\Exe007.FrmExe0080427.resources
+F:\1_School\DS (Visual Studio_C#)\Exe007\Exe007\bin\Debug\Exe007.exe.config
+F:\1_School\DS (Visual Studio_C#)\Exe007\Exe007\bin\Debug\Exe007.exe
+F:\1_School\DS (Visual Studio_C#)\Exe007\Exe007\bin\Debug\Exe007.pdb
+F:\1_School\DS (Visual Studio_C#)\Exe007\Exe007\obj\Debug\Exe007.csprojAssemblyReference.cache
+F:\1_School\DS (Visual Studio_C#)\Exe007\Exe007\obj\Debug\Exe007.FrmExe007.resources
+F:\1_School\DS (Visual Studio_C#)\Exe007\Exe007\obj\Debug\Exe007.FrmExe0080427.resources
+F:\1_School\DS (Visual Studio_C#)\Exe007\Exe007\obj\Debug\Exe007.Properties.Resources.resources
+F:\1_School\DS (Visual Studio_C#)\Exe007\Exe007\obj\Debug\Exe007.csproj.GenerateResource.cache
+F:\1_School\DS (Visual Studio_C#)\Exe007\Exe007\obj\Debug\Exe007.csproj.CoreCompileInputs.cache
+F:\1_School\DS (Visual Studio_C#)\Exe007\Exe007\obj\Debug\Exe007.exe
+F:\1_School\DS (Visual Studio_C#)\Exe007\Exe007\obj\Debug\Exe007.pdb

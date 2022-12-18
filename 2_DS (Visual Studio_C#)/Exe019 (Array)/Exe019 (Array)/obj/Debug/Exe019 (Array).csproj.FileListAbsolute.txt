@@ -1,0 +1,10 @@
+F:\1_School\DS (Visual Studio_C#)\Exe019 (Array)\Exe019 (Array)\bin\Debug\Exe019 (Array).exe.config
+F:\1_School\DS (Visual Studio_C#)\Exe019 (Array)\Exe019 (Array)\bin\Debug\Exe019 (Array).exe
+F:\1_School\DS (Visual Studio_C#)\Exe019 (Array)\Exe019 (Array)\bin\Debug\Exe019 (Array).pdb
+F:\1_School\DS (Visual Studio_C#)\Exe019 (Array)\Exe019 (Array)\obj\Debug\Exe019 (Array).csprojAssemblyReference.cache
+F:\1_School\DS (Visual Studio_C#)\Exe019 (Array)\Exe019 (Array)\obj\Debug\Exe019__Array_.FrmEx019.resources
+F:\1_School\DS (Visual Studio_C#)\Exe019 (Array)\Exe019 (Array)\obj\Debug\Exe019__Array_.Properties.Resources.resources
+F:\1_School\DS (Visual Studio_C#)\Exe019 (Array)\Exe019 (Array)\obj\Debug\Exe019 (Array).csproj.GenerateResource.cache
+F:\1_School\DS (Visual Studio_C#)\Exe019 (Array)\Exe019 (Array)\obj\Debug\Exe019 (Array).csproj.CoreCompileInputs.cache
+F:\1_School\DS (Visual Studio_C#)\Exe019 (Array)\Exe019 (Array)\obj\Debug\Exe019 (Array).exe
+F:\1_School\DS (Visual Studio_C#)\Exe019 (Array)\Exe019 (Array)\obj\Debug\Exe019 (Array).pdb

@@ -1,0 +1,10 @@
+E:\Avaliacao3\Avaliacao3\bin\Debug\Avaliacao3.exe.config
+E:\Avaliacao3\Avaliacao3\bin\Debug\Avaliacao3.exe
+E:\Avaliacao3\Avaliacao3\bin\Debug\Avaliacao3.pdb
+E:\Avaliacao3\Avaliacao3\obj\Debug\Avaliacao3.csprojAssemblyReference.cache
+E:\Avaliacao3\Avaliacao3\obj\Debug\Avaliacao3.Form1.resources
+E:\Avaliacao3\Avaliacao3\obj\Debug\Avaliacao3.Properties.Resources.resources
+E:\Avaliacao3\Avaliacao3\obj\Debug\Avaliacao3.csproj.GenerateResource.cache
+E:\Avaliacao3\Avaliacao3\obj\Debug\Avaliacao3.csproj.CoreCompileInputs.cache
+E:\Avaliacao3\Avaliacao3\obj\Debug\Avaliacao3.exe
+E:\Avaliacao3\Avaliacao3\obj\Debug\Avaliacao3.pdb

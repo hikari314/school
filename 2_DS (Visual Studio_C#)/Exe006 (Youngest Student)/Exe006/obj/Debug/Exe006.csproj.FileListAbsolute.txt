@@ -1,0 +1,10 @@
+C:\Users\Lab_ETESP\Desktop\Exe006\Exe006\bin\Debug\Exe006.exe.config
+C:\Users\Lab_ETESP\Desktop\Exe006\Exe006\bin\Debug\Exe006.exe
+C:\Users\Lab_ETESP\Desktop\Exe006\Exe006\bin\Debug\Exe006.pdb
+C:\Users\Lab_ETESP\Desktop\Exe006\Exe006\obj\Debug\Exe006.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\Desktop\Exe006\Exe006\obj\Debug\Exe006.FrmExe006.resources
+C:\Users\Lab_ETESP\Desktop\Exe006\Exe006\obj\Debug\Exe006.Properties.Resources.resources
+C:\Users\Lab_ETESP\Desktop\Exe006\Exe006\obj\Debug\Exe006.csproj.GenerateResource.cache
+C:\Users\Lab_ETESP\Desktop\Exe006\Exe006\obj\Debug\Exe006.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\Desktop\Exe006\Exe006\obj\Debug\Exe006.exe
+C:\Users\Lab_ETESP\Desktop\Exe006\Exe006\obj\Debug\Exe006.pdb

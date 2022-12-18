@@ -1,0 +1,20 @@
+I:\1_School\DS (Visual Studio_C#)\Exe016\Exe016\bin\Debug\Exe016.exe.config
+I:\1_School\DS (Visual Studio_C#)\Exe016\Exe016\bin\Debug\Exe016.exe
+I:\1_School\DS (Visual Studio_C#)\Exe016\Exe016\bin\Debug\Exe016.pdb
+I:\1_School\DS (Visual Studio_C#)\Exe016\Exe016\obj\Debug\Exe016.csproj.AssemblyReference.cache
+I:\1_School\DS (Visual Studio_C#)\Exe016\Exe016\obj\Debug\Exe016.FrmExe016.resources
+I:\1_School\DS (Visual Studio_C#)\Exe016\Exe016\obj\Debug\Exe016.Properties.Resources.resources
+I:\1_School\DS (Visual Studio_C#)\Exe016\Exe016\obj\Debug\Exe016.csproj.GenerateResource.cache
+I:\1_School\DS (Visual Studio_C#)\Exe016\Exe016\obj\Debug\Exe016.csproj.CoreCompileInputs.cache
+I:\1_School\DS (Visual Studio_C#)\Exe016\Exe016\obj\Debug\Exe016.exe
+I:\1_School\DS (Visual Studio_C#)\Exe016\Exe016\obj\Debug\Exe016.pdb
+F:\1_School\DS (Visual Studio_C#)\Exe016 (While, Do While and For)\Exe016\bin\Debug\Exe016.exe.config
+F:\1_School\DS (Visual Studio_C#)\Exe016 (While, Do While and For)\Exe016\bin\Debug\Exe016.exe
+F:\1_School\DS (Visual Studio_C#)\Exe016 (While, Do While and For)\Exe016\bin\Debug\Exe016.pdb
+F:\1_School\DS (Visual Studio_C#)\Exe016 (While, Do While and For)\Exe016\obj\Debug\Exe016.csprojAssemblyReference.cache
+F:\1_School\DS (Visual Studio_C#)\Exe016 (While, Do While and For)\Exe016\obj\Debug\Exe016.FrmExe016.resources
+F:\1_School\DS (Visual Studio_C#)\Exe016 (While, Do While and For)\Exe016\obj\Debug\Exe016.Properties.Resources.resources
+F:\1_School\DS (Visual Studio_C#)\Exe016 (While, Do While and For)\Exe016\obj\Debug\Exe016.csproj.GenerateResource.cache
+F:\1_School\DS (Visual Studio_C#)\Exe016 (While, Do While and For)\Exe016\obj\Debug\Exe016.csproj.CoreCompileInputs.cache
+F:\1_School\DS (Visual Studio_C#)\Exe016 (While, Do While and For)\Exe016\obj\Debug\Exe016.exe
+F:\1_School\DS (Visual Studio_C#)\Exe016 (While, Do While and For)\Exe016\obj\Debug\Exe016.pdb

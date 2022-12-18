@@ -1,0 +1,12 @@
+F:\1_School\DS (Visual Studio_C#)\Exe026 (Database)\Exe026 (Database)\bin\Debug\DataBase.mdb
+F:\1_School\DS (Visual Studio_C#)\Exe026 (Database)\Exe026 (Database)\bin\Debug\Exe026 (Database).exe.config
+F:\1_School\DS (Visual Studio_C#)\Exe026 (Database)\Exe026 (Database)\bin\Debug\Exe026 (Database).exe
+F:\1_School\DS (Visual Studio_C#)\Exe026 (Database)\Exe026 (Database)\bin\Debug\Exe026 (Database).pdb
+F:\1_School\DS (Visual Studio_C#)\Exe026 (Database)\Exe026 (Database)\obj\Debug\Exe026 (Database).csprojAssemblyReference.cache
+F:\1_School\DS (Visual Studio_C#)\Exe026 (Database)\Exe026 (Database)\obj\Debug\Exe026__Database_.Form1.resources
+F:\1_School\DS (Visual Studio_C#)\Exe026 (Database)\Exe026 (Database)\obj\Debug\Exe026__Database_.Properties.Resources.resources
+F:\1_School\DS (Visual Studio_C#)\Exe026 (Database)\Exe026 (Database)\obj\Debug\Exe026 (Database).csproj.GenerateResource.cache
+F:\1_School\DS (Visual Studio_C#)\Exe026 (Database)\Exe026 (Database)\obj\Debug\Exe026 (Database).csproj.CoreCompileInputs.cache
+F:\1_School\DS (Visual Studio_C#)\Exe026 (Database)\Exe026 (Database)\obj\Debug\Exe026 (Database).exe
+F:\1_School\DS (Visual Studio_C#)\Exe026 (Database)\Exe026 (Database)\obj\Debug\Exe026 (Database).pdb
+F:\1_School\DS (Visual Studio_C#)\Exe026 (Database)\Exe026 (Database)\obj\Debug\Exe026__Database_.Form2.resources

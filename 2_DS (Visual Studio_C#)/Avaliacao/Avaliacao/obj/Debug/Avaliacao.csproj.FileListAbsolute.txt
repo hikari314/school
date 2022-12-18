@@ -1,0 +1,9 @@
+F:\Avaliacao\Avaliacao\bin\Debug\Avaliacao.exe.config
+F:\Avaliacao\Avaliacao\bin\Debug\Avaliacao.exe
+F:\Avaliacao\Avaliacao\bin\Debug\Avaliacao.pdb
+F:\Avaliacao\Avaliacao\obj\Debug\Avaliacao.FrmExeAvaliacao.resources
+F:\Avaliacao\Avaliacao\obj\Debug\Avaliacao.Properties.Resources.resources
+F:\Avaliacao\Avaliacao\obj\Debug\Avaliacao.csproj.GenerateResource.cache
+F:\Avaliacao\Avaliacao\obj\Debug\Avaliacao.csproj.CoreCompileInputs.cache
+F:\Avaliacao\Avaliacao\obj\Debug\Avaliacao.exe
+F:\Avaliacao\Avaliacao\obj\Debug\Avaliacao.pdb

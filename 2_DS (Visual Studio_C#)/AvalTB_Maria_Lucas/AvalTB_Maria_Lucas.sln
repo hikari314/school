@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvalTB_Maria_Lucas", "AvalTB_Maria_Lucas.csproj", "{64581BE9-1A49-4854-8A6C-097A360067FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64581BE9-1A49-4854-8A6C-097A360067FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64581BE9-1A49-4854-8A6C-097A360067FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64581BE9-1A49-4854-8A6C-097A360067FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64581BE9-1A49-4854-8A6C-097A360067FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E305623A-E3FA-44E8-960E-DA54E9658A7E}
+	EndGlobalSection
+EndGlobal

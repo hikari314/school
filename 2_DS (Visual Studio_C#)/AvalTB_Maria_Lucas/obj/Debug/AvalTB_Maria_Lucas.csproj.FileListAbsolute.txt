@@ -1,0 +1,20 @@
+F:\AvalTB_Maria_Lucas\bin\Debug\AvalTB_Maria_Lucas.exe.config
+F:\AvalTB_Maria_Lucas\bin\Debug\AvalTB_Maria_Lucas.exe
+F:\AvalTB_Maria_Lucas\bin\Debug\AvalTB_Maria_Lucas.pdb
+F:\AvalTB_Maria_Lucas\obj\Debug\AvalTB_Maria_Lucas.csprojAssemblyReference.cache
+F:\AvalTB_Maria_Lucas\obj\Debug\AvalTB_Maria_Lucas.FrmAvaliacao.resources
+F:\AvalTB_Maria_Lucas\obj\Debug\AvalTB_Maria_Lucas.Properties.Resources.resources
+F:\AvalTB_Maria_Lucas\obj\Debug\AvalTB_Maria_Lucas.csproj.GenerateResource.cache
+F:\AvalTB_Maria_Lucas\obj\Debug\AvalTB_Maria_Lucas.csproj.CoreCompileInputs.cache
+F:\AvalTB_Maria_Lucas\obj\Debug\AvalTB_Maria_Lucas.exe
+F:\AvalTB_Maria_Lucas\obj\Debug\AvalTB_Maria_Lucas.pdb
+I:\1_School\DS (Visual Studio_C#)\AvalTB_Maria_Lucas\bin\Debug\AvalTB_Maria_Lucas.exe.config
+I:\1_School\DS (Visual Studio_C#)\AvalTB_Maria_Lucas\bin\Debug\AvalTB_Maria_Lucas.exe
+I:\1_School\DS (Visual Studio_C#)\AvalTB_Maria_Lucas\bin\Debug\AvalTB_Maria_Lucas.pdb
+I:\1_School\DS (Visual Studio_C#)\AvalTB_Maria_Lucas\obj\Debug\AvalTB_Maria_Lucas.csproj.AssemblyReference.cache
+I:\1_School\DS (Visual Studio_C#)\AvalTB_Maria_Lucas\obj\Debug\AvalTB_Maria_Lucas.FrmAvaliacao.resources
+I:\1_School\DS (Visual Studio_C#)\AvalTB_Maria_Lucas\obj\Debug\AvalTB_Maria_Lucas.Properties.Resources.resources
+I:\1_School\DS (Visual Studio_C#)\AvalTB_Maria_Lucas\obj\Debug\AvalTB_Maria_Lucas.csproj.GenerateResource.cache
+I:\1_School\DS (Visual Studio_C#)\AvalTB_Maria_Lucas\obj\Debug\AvalTB_Maria_Lucas.csproj.CoreCompileInputs.cache
+I:\1_School\DS (Visual Studio_C#)\AvalTB_Maria_Lucas\obj\Debug\AvalTB_Maria_Lucas.exe
+I:\1_School\DS (Visual Studio_C#)\AvalTB_Maria_Lucas\obj\Debug\AvalTB_Maria_Lucas.pdb

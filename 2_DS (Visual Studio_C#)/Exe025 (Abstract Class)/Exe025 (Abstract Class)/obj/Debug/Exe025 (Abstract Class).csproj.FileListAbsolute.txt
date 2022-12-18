@@ -1,0 +1,22 @@
+F:\1_School\Exe025 (Abstract Class)\Exe025 (Abstract Class)\bin\Debug\Exe025 (Abstract Class).exe.config
+F:\1_School\Exe025 (Abstract Class)\Exe025 (Abstract Class)\bin\Debug\Exe025 (Abstract Class).exe
+F:\1_School\Exe025 (Abstract Class)\Exe025 (Abstract Class)\bin\Debug\Exe025 (Abstract Class).pdb
+F:\1_School\Exe025 (Abstract Class)\Exe025 (Abstract Class)\obj\Debug\Exe025 (Abstract Class).csprojAssemblyReference.cache
+F:\1_School\Exe025 (Abstract Class)\Exe025 (Abstract Class)\obj\Debug\Exe025__Abstract_Class_.FrmMenu.resources
+F:\1_School\Exe025 (Abstract Class)\Exe025 (Abstract Class)\obj\Debug\Exe025__Abstract_Class_.Forms.FrmRegister.resources
+F:\1_School\Exe025 (Abstract Class)\Exe025 (Abstract Class)\obj\Debug\Exe025__Abstract_Class_.Properties.Resources.resources
+F:\1_School\Exe025 (Abstract Class)\Exe025 (Abstract Class)\obj\Debug\Exe025 (Abstract Class).csproj.GenerateResource.cache
+F:\1_School\Exe025 (Abstract Class)\Exe025 (Abstract Class)\obj\Debug\Exe025 (Abstract Class).csproj.CoreCompileInputs.cache
+F:\1_School\Exe025 (Abstract Class)\Exe025 (Abstract Class)\obj\Debug\Exe025 (Abstract Class).exe
+F:\1_School\Exe025 (Abstract Class)\Exe025 (Abstract Class)\obj\Debug\Exe025 (Abstract Class).pdb
+F:\1_School\DS (Visual Studio_C#)\Exe025 (Abstract Class)\Exe025 (Abstract Class)\obj\Debug\Exe025 (Abstract Class).csprojAssemblyReference.cache
+F:\1_School\DS (Visual Studio_C#)\Exe025 (Abstract Class)\Exe025 (Abstract Class)\obj\Debug\Exe025__Abstract_Class_.FrmMenu.resources
+F:\1_School\DS (Visual Studio_C#)\Exe025 (Abstract Class)\Exe025 (Abstract Class)\obj\Debug\Exe025__Abstract_Class_.Forms.FrmRegister.resources
+F:\1_School\DS (Visual Studio_C#)\Exe025 (Abstract Class)\Exe025 (Abstract Class)\obj\Debug\Exe025__Abstract_Class_.Properties.Resources.resources
+F:\1_School\DS (Visual Studio_C#)\Exe025 (Abstract Class)\Exe025 (Abstract Class)\obj\Debug\Exe025 (Abstract Class).csproj.GenerateResource.cache
+F:\1_School\DS (Visual Studio_C#)\Exe025 (Abstract Class)\Exe025 (Abstract Class)\obj\Debug\Exe025 (Abstract Class).csproj.CoreCompileInputs.cache
+F:\1_School\DS (Visual Studio_C#)\Exe025 (Abstract Class)\Exe025 (Abstract Class)\obj\Debug\Exe025 (Abstract Class).exe
+F:\1_School\DS (Visual Studio_C#)\Exe025 (Abstract Class)\Exe025 (Abstract Class)\obj\Debug\Exe025 (Abstract Class).pdb
+F:\1_School\DS (Visual Studio_C#)\Exe025 (Abstract Class)\Exe025 (Abstract Class)\bin\Debug\Exe025 (Abstract Class).exe.config
+F:\1_School\DS (Visual Studio_C#)\Exe025 (Abstract Class)\Exe025 (Abstract Class)\bin\Debug\Exe025 (Abstract Class).exe
+F:\1_School\DS (Visual Studio_C#)\Exe025 (Abstract Class)\Exe025 (Abstract Class)\bin\Debug\Exe025 (Abstract Class).pdb

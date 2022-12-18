@@ -1,0 +1,10 @@
+E:\Avaliacao3BIM\Avaliacao3BIM\bin\Debug\Avaliacao3BIM.exe.config
+E:\Avaliacao3BIM\Avaliacao3BIM\bin\Debug\Avaliacao3BIM.exe
+E:\Avaliacao3BIM\Avaliacao3BIM\bin\Debug\Avaliacao3BIM.pdb
+E:\Avaliacao3BIM\Avaliacao3BIM\obj\Debug\Avaliacao3BIM.csprojAssemblyReference.cache
+E:\Avaliacao3BIM\Avaliacao3BIM\obj\Debug\Avaliacao3BIM.Form1.resources
+E:\Avaliacao3BIM\Avaliacao3BIM\obj\Debug\Avaliacao3BIM.Properties.Resources.resources
+E:\Avaliacao3BIM\Avaliacao3BIM\obj\Debug\Avaliacao3BIM.csproj.GenerateResource.cache
+E:\Avaliacao3BIM\Avaliacao3BIM\obj\Debug\Avaliacao3BIM.csproj.CoreCompileInputs.cache
+E:\Avaliacao3BIM\Avaliacao3BIM\obj\Debug\Avaliacao3BIM.exe
+E:\Avaliacao3BIM\Avaliacao3BIM\obj\Debug\Avaliacao3BIM.pdb

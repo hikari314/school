@@ -1,0 +1,13 @@
+F:\1_School\DS (Visual Studio_C#)\Exe028 (DB3)\Exe028 (DB3)\bin\Debug\Exe028 (DB3).exe.config
+F:\1_School\DS (Visual Studio_C#)\Exe028 (DB3)\Exe028 (DB3)\bin\Debug\Exe028 (DB3).exe
+F:\1_School\DS (Visual Studio_C#)\Exe028 (DB3)\Exe028 (DB3)\bin\Debug\Exe028 (DB3).pdb
+F:\1_School\DS (Visual Studio_C#)\Exe028 (DB3)\Exe028 (DB3)\obj\Debug\Exe028 (DB3).csprojAssemblyReference.cache
+F:\1_School\DS (Visual Studio_C#)\Exe028 (DB3)\Exe028 (DB3)\obj\Debug\Exe028__DB3_.FrmProducts.resources
+F:\1_School\DS (Visual Studio_C#)\Exe028 (DB3)\Exe028 (DB3)\obj\Debug\Exe028__DB3_.Properties.Resources.resources
+F:\1_School\DS (Visual Studio_C#)\Exe028 (DB3)\Exe028 (DB3)\obj\Debug\Exe028 (DB3).csproj.GenerateResource.cache
+F:\1_School\DS (Visual Studio_C#)\Exe028 (DB3)\Exe028 (DB3)\obj\Debug\Exe028 (DB3).csproj.CoreCompileInputs.cache
+F:\1_School\DS (Visual Studio_C#)\Exe028 (DB3)\Exe028 (DB3)\obj\Debug\Exe028 (DB3).exe
+F:\1_School\DS (Visual Studio_C#)\Exe028 (DB3)\Exe028 (DB3)\obj\Debug\Exe028 (DB3).pdb
+F:\1_School\DS (Visual Studio_C#)\Exe028 (DB3)\Exe028 (DB3)\obj\Debug\Exe028__DB3_.FrmList.resources
+F:\1_School\DS (Visual Studio_C#)\Exe028 (DB3)\Exe028 (DB3)\obj\Debug\Exe028__DB3_.Form2.resources
+F:\1_School\DS (Visual Studio_C#)\Exe028 (DB3)\Exe028 (DB3)\obj\Debug\Exe028__DB3_.FrmList2.resources

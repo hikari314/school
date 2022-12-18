@@ -1,0 +1,15 @@
+C:\Users\Lab_ETESP\Downloads\Exe004\Exe004\bin\Debug\Exe004.exe.config
+C:\Users\Lab_ETESP\Downloads\Exe004\Exe004\bin\Debug\Exe004.exe
+C:\Users\Lab_ETESP\Downloads\Exe004\Exe004\bin\Debug\Exe004.pdb
+C:\Users\Lab_ETESP\Downloads\Exe004\Exe004\obj\Debug\Exe004.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\Downloads\Exe004\Exe004\obj\Debug\Exe004.FrmExe004.resources
+C:\Users\Lab_ETESP\Downloads\Exe004\Exe004\obj\Debug\Exe004.Properties.Resources.resources
+C:\Users\Lab_ETESP\Downloads\Exe004\Exe004\obj\Debug\Exe004.csproj.GenerateResource.cache
+C:\Users\Lab_ETESP\Downloads\Exe004\Exe004\obj\Debug\Exe004.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\Downloads\Exe004\Exe004\obj\Debug\Exe004.exe
+C:\Users\Lab_ETESP\Downloads\Exe004\Exe004\obj\Debug\Exe004.pdb
+F:\1_School\DS (Visual Studio_C#)\Exe004\Exe004\obj\Debug\Exe004.csprojAssemblyReference.cache
+F:\1_School\DS (Visual Studio_C#)\Exe004\Exe004\obj\Debug\Exe004.FrmExe004.resources
+F:\1_School\DS (Visual Studio_C#)\Exe004\Exe004\obj\Debug\Exe004.csproj.GenerateResource.cache
+F:\1_School\DS (Visual Studio_C#)\Exe004\Exe004\obj\Debug\Exe004.exe
+F:\1_School\DS (Visual Studio_C#)\Exe004\Exe004\obj\Debug\Exe004.pdb

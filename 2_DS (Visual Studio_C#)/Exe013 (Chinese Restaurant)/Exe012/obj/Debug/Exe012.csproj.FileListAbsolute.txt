@@ -1,0 +1,10 @@
+F:\Exe012\Exe012\bin\Debug\Exe012.exe.config
+F:\Exe012\Exe012\bin\Debug\Exe012.exe
+F:\Exe012\Exe012\bin\Debug\Exe012.pdb
+F:\Exe012\Exe012\obj\Debug\Exe012.csprojAssemblyReference.cache
+F:\Exe012\Exe012\obj\Debug\Exe012.FrmExe012.resources
+F:\Exe012\Exe012\obj\Debug\Exe012.Properties.Resources.resources
+F:\Exe012\Exe012\obj\Debug\Exe012.csproj.GenerateResource.cache
+F:\Exe012\Exe012\obj\Debug\Exe012.csproj.CoreCompileInputs.cache
+F:\Exe012\Exe012\obj\Debug\Exe012.exe
+F:\Exe012\Exe012\obj\Debug\Exe012.pdb

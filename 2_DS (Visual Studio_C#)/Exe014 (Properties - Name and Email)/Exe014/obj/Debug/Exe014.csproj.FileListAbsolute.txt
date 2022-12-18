@@ -1,0 +1,20 @@
+I:\Exe014\Exe014\bin\Debug\Exe014.exe.config
+I:\Exe014\Exe014\bin\Debug\Exe014.exe
+I:\Exe014\Exe014\bin\Debug\Exe014.pdb
+I:\Exe014\Exe014\obj\Debug\Exe014.csproj.AssemblyReference.cache
+I:\Exe014\Exe014\obj\Debug\Exe014.FrmExe014.resources
+I:\Exe014\Exe014\obj\Debug\Exe014.Properties.Resources.resources
+I:\Exe014\Exe014\obj\Debug\Exe014.csproj.GenerateResource.cache
+I:\Exe014\Exe014\obj\Debug\Exe014.csproj.CoreCompileInputs.cache
+I:\Exe014\Exe014\obj\Debug\Exe014.exe
+I:\Exe014\Exe014\obj\Debug\Exe014.pdb
+I:\1_School\DS (Visual Studio_C#)\Exe014\Exe014\bin\Debug\Exe014.exe.config
+I:\1_School\DS (Visual Studio_C#)\Exe014\Exe014\bin\Debug\Exe014.exe
+I:\1_School\DS (Visual Studio_C#)\Exe014\Exe014\bin\Debug\Exe014.pdb
+I:\1_School\DS (Visual Studio_C#)\Exe014\Exe014\obj\Debug\Exe014.csproj.AssemblyReference.cache
+I:\1_School\DS (Visual Studio_C#)\Exe014\Exe014\obj\Debug\Exe014.FrmExe014.resources
+I:\1_School\DS (Visual Studio_C#)\Exe014\Exe014\obj\Debug\Exe014.Properties.Resources.resources
+I:\1_School\DS (Visual Studio_C#)\Exe014\Exe014\obj\Debug\Exe014.csproj.GenerateResource.cache
+I:\1_School\DS (Visual Studio_C#)\Exe014\Exe014\obj\Debug\Exe014.csproj.CoreCompileInputs.cache
+I:\1_School\DS (Visual Studio_C#)\Exe014\Exe014\obj\Debug\Exe014.exe
+I:\1_School\DS (Visual Studio_C#)\Exe014\Exe014\obj\Debug\Exe014.pdb

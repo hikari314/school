@@ -1,0 +1,20 @@
+C:\Users\Lab_ETESP\Desktop\Exe003_Maria\Exe003_Maria\bin\Debug\Exe003_Maria.exe.config
+C:\Users\Lab_ETESP\Desktop\Exe003_Maria\Exe003_Maria\bin\Debug\Exe003_Maria.exe
+C:\Users\Lab_ETESP\Desktop\Exe003_Maria\Exe003_Maria\bin\Debug\Exe003_Maria.pdb
+C:\Users\Lab_ETESP\Desktop\Exe003_Maria\Exe003_Maria\obj\Debug\Exe003_Maria.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\Desktop\Exe003_Maria\Exe003_Maria\obj\Debug\Exe003_Maria.FrmExe003.resources
+C:\Users\Lab_ETESP\Desktop\Exe003_Maria\Exe003_Maria\obj\Debug\Exe003_Maria.Properties.Resources.resources
+C:\Users\Lab_ETESP\Desktop\Exe003_Maria\Exe003_Maria\obj\Debug\Exe003_Maria.csproj.GenerateResource.cache
+C:\Users\Lab_ETESP\Desktop\Exe003_Maria\Exe003_Maria\obj\Debug\Exe003_Maria.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\Desktop\Exe003_Maria\Exe003_Maria\obj\Debug\Exe003_Maria.exe
+C:\Users\Lab_ETESP\Desktop\Exe003_Maria\Exe003_Maria\obj\Debug\Exe003_Maria.pdb
+F:\1_School\DS (Visual Studio_C#)\Exe003_Maria\Exe003_Maria\bin\Debug\Exe003_Maria.exe.config
+F:\1_School\DS (Visual Studio_C#)\Exe003_Maria\Exe003_Maria\bin\Debug\Exe003_Maria.exe
+F:\1_School\DS (Visual Studio_C#)\Exe003_Maria\Exe003_Maria\bin\Debug\Exe003_Maria.pdb
+F:\1_School\DS (Visual Studio_C#)\Exe003_Maria\Exe003_Maria\obj\Debug\Exe003_Maria.csprojAssemblyReference.cache
+F:\1_School\DS (Visual Studio_C#)\Exe003_Maria\Exe003_Maria\obj\Debug\Exe003_Maria.FrmExe003.resources
+F:\1_School\DS (Visual Studio_C#)\Exe003_Maria\Exe003_Maria\obj\Debug\Exe003_Maria.Properties.Resources.resources
+F:\1_School\DS (Visual Studio_C#)\Exe003_Maria\Exe003_Maria\obj\Debug\Exe003_Maria.csproj.GenerateResource.cache
+F:\1_School\DS (Visual Studio_C#)\Exe003_Maria\Exe003_Maria\obj\Debug\Exe003_Maria.csproj.CoreCompileInputs.cache
+F:\1_School\DS (Visual Studio_C#)\Exe003_Maria\Exe003_Maria\obj\Debug\Exe003_Maria.exe
+F:\1_School\DS (Visual Studio_C#)\Exe003_Maria\Exe003_Maria\obj\Debug\Exe003_Maria.pdb

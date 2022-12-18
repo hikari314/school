@@ -1,0 +1,10 @@
+F:\1_School\DS (Visual Studio_C#)\Exe024 - Budget (OOP)\Exe024 - Budget (OOP)\bin\Debug\Exe024 - Budget (OOP).exe.config
+F:\1_School\DS (Visual Studio_C#)\Exe024 - Budget (OOP)\Exe024 - Budget (OOP)\bin\Debug\Exe024 - Budget (OOP).exe
+F:\1_School\DS (Visual Studio_C#)\Exe024 - Budget (OOP)\Exe024 - Budget (OOP)\bin\Debug\Exe024 - Budget (OOP).pdb
+F:\1_School\DS (Visual Studio_C#)\Exe024 - Budget (OOP)\Exe024 - Budget (OOP)\obj\Debug\Exe024 - Budget (OOP).csprojAssemblyReference.cache
+F:\1_School\DS (Visual Studio_C#)\Exe024 - Budget (OOP)\Exe024 - Budget (OOP)\obj\Debug\Exe024___Budget__OOP_.FrmExe024.resources
+F:\1_School\DS (Visual Studio_C#)\Exe024 - Budget (OOP)\Exe024 - Budget (OOP)\obj\Debug\Exe024___Budget__OOP_.Properties.Resources.resources
+F:\1_School\DS (Visual Studio_C#)\Exe024 - Budget (OOP)\Exe024 - Budget (OOP)\obj\Debug\Exe024 - Budget (OOP).csproj.GenerateResource.cache
+F:\1_School\DS (Visual Studio_C#)\Exe024 - Budget (OOP)\Exe024 - Budget (OOP)\obj\Debug\Exe024 - Budget (OOP).csproj.CoreCompileInputs.cache
+F:\1_School\DS (Visual Studio_C#)\Exe024 - Budget (OOP)\Exe024 - Budget (OOP)\obj\Debug\Exe024 - Budget (OOP).exe
+F:\1_School\DS (Visual Studio_C#)\Exe024 - Budget (OOP)\Exe024 - Budget (OOP)\obj\Debug\Exe024 - Budget (OOP).pdb

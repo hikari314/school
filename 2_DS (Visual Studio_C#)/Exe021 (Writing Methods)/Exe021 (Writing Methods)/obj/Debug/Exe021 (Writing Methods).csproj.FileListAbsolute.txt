@@ -1,0 +1,10 @@
+F:\1_School\DS (Visual Studio_C#)\Exe021 (Writing Methods)\Exe021 (Writing Methods)\bin\Debug\Exe021 (Writing Methods).exe.config
+F:\1_School\DS (Visual Studio_C#)\Exe021 (Writing Methods)\Exe021 (Writing Methods)\bin\Debug\Exe021 (Writing Methods).exe
+F:\1_School\DS (Visual Studio_C#)\Exe021 (Writing Methods)\Exe021 (Writing Methods)\bin\Debug\Exe021 (Writing Methods).pdb
+F:\1_School\DS (Visual Studio_C#)\Exe021 (Writing Methods)\Exe021 (Writing Methods)\obj\Debug\Exe021 (Writing Methods).csprojAssemblyReference.cache
+F:\1_School\DS (Visual Studio_C#)\Exe021 (Writing Methods)\Exe021 (Writing Methods)\obj\Debug\Exe021__Writing_Methods_.FrmExe021.resources
+F:\1_School\DS (Visual Studio_C#)\Exe021 (Writing Methods)\Exe021 (Writing Methods)\obj\Debug\Exe021__Writing_Methods_.Properties.Resources.resources
+F:\1_School\DS (Visual Studio_C#)\Exe021 (Writing Methods)\Exe021 (Writing Methods)\obj\Debug\Exe021 (Writing Methods).csproj.GenerateResource.cache
+F:\1_School\DS (Visual Studio_C#)\Exe021 (Writing Methods)\Exe021 (Writing Methods)\obj\Debug\Exe021 (Writing Methods).csproj.CoreCompileInputs.cache
+F:\1_School\DS (Visual Studio_C#)\Exe021 (Writing Methods)\Exe021 (Writing Methods)\obj\Debug\Exe021 (Writing Methods).exe
+F:\1_School\DS (Visual Studio_C#)\Exe021 (Writing Methods)\Exe021 (Writing Methods)\obj\Debug\Exe021 (Writing Methods).pdb
